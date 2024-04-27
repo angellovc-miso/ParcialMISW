@@ -6,6 +6,9 @@ import { CafeComponent } from './cafe.component';
   imports: [
     CommonModule
   ],
+  exports: [
+    CafeComponent
+  ],
   declarations: [CafeComponent]
 })
 export class CafeModule { }
