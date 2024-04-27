@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  font-family: "Indie Flower", cursive;
+  color: rgb(68, 67, 67);
+  font-style: normal;
+}
